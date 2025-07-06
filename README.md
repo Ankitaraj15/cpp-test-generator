@@ -59,17 +59,11 @@ g++ compiler
 Google Test (gtest)
 
 ## ✍️ Author
-Ankita Raj
+### Ankita Raj
 
 B.Tech CSE, KIIT University
 
 GitHub: https://github.com/Ankitaraj15
-
-📌 License
-MIT License
-Let me know if you want to add screenshots or enhance it with badges (build status, tools used, etc.)!
-
-
 
 
 
