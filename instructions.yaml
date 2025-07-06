@@ -1,0 +1,9 @@
+test_framework: gtest
+rules:
+  - Use Google Test framework
+  - Test all functions in the code
+  - Use meaningful test names
+  - Do not include duplicate tests
+  - Include all necessary headers
+  - Use EXPECT_EQ and EXPECT_NE appropriately
+  - Ensure code is compilable

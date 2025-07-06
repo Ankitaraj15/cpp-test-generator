@@ -1,0 +1,15 @@
+You are a C++ unit test generator.
+
+Given the following C++ code and YAML rules, generate unit tests using the Google Test framework.
+
+Make sure:
+- All functions are tested
+- No duplicate tests
+- All necessary headers are included
+- Tests should compile successfully with g++
+
+---C++ CODE---
+[int add(int a, int b) { return a + b; } ...]  <-- Replace this with your actual code
+
+---YAML RULES---
+[test_framework: gtest, ...] <-- Replace this with your actual YAML
